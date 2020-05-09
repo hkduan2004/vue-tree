@@ -290,4 +290,4 @@ methods: {
 
 ## License
 
-[MIT](https://github.com/jiaxincui/vue-tree/blob/master/LICENSE.md) © [JiaxinCui](https://github.com/jiaxincui)
+© [hkduan2004](https://github.com/hkduan2004)
